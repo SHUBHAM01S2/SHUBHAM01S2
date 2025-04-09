@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham01s2&label=Profile%20views&color=0e75b6&style=flat" alt="shubham01s2" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, and Big Data Tools like Spark**.
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, NLP, and exploring Generative AI*.
 
 - 👯 I’m looking to collaborate on **ML projects, data-driven solutions, predictive modeling, and NLP tasks**.
 
